@@ -1,9 +1,13 @@
-# Ignore dataset
-data/
-
-# Ignore Python cache
+#python cache 
 __pycache__/
-*.pyc
+*.__pyc 
 
-# Ignore environment files
+#virtual environment
+.venv/
+env/
+
+#environment variables
 .env
+
+# OS files
+.DS_Store

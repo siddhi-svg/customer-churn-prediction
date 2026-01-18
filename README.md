@@ -16,6 +16,7 @@ Predict whether a customer will leave the bank using machine learning.
 - Google Colab
 
 ## Dataset
-Dataset not uploaded due to GitHub size limits.
+Dataset is uploaded in the 'data/' folder . 
+source: Kaggle (Churn Customer Prediction)
 Download from:
 https://www.kaggle.com/datasets/shubh0799/churn-modelling
